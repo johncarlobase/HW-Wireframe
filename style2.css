@@ -21,7 +21,7 @@
       color: white;
       height: 100px;
       padding: 15px;
-      border: 1.5px solid white;
+      border: 1.5px solid olivedrab;
       text-align: center;
   }
 
@@ -29,16 +29,17 @@
     background-color: #4b4918;
     height: 100px;
     padding: 15px;
-    border: 1.5px solid white;
+    border: 1.5px solid olivedrab;
     text-align: center;
  }
 
  #section{
      background-color: #E0CA3C;
-     margin: 0 auto;
+     margin-top: 10px;
+     margin-bottom: 10px;
      text-align: center;
      float: left;
-     width: 500px;
+     width: 490px;
      height: 400px;
      padding-top: 30px:
      border: 2.5px solid white;
@@ -53,11 +54,11 @@
      margin-left: 10px;
      margin-right: 500px;
      position: center;
-     width: 425px;
+     width: 470px;
     height: 310px;
 }
 #h1h2h3{
-    width: 400px;
+    width: 450px;
     height: 50px;
     background-color: #9B7362;
     margin-left: 10px;
@@ -67,7 +68,7 @@
 }
 
 #p{
-    width: 400px;
+    width: 450px;
     height: 50px;
     background-color: #9B7362;
     margin-left: 10px;
@@ -78,15 +79,15 @@
 }
 
  #aside{
-    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
     background-color: #70566D;
     float: right;
-    width: 500px;
+    width: 490px;
     height: 400px;
     padding-top: 30px:
-    border: 2.5px solid white;
-    margin: 0;
+   
 }
 footer{
     clear: both;
@@ -94,10 +95,11 @@ footer{
     background-color: #d8beed;
     height: 100px;
     padding: 10px;
-    border: 1.5px solid white;
+    border: 1.5px solid olivedrab;
     margin: 0 auto;
     font-style: italic;
     text-align: center;
-
+   margin-top: 10px;
+   font-size: 18px;
 
 }
