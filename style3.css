@@ -1,0 +1,116 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #777;
+    color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 1000px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    font-size: 24px;
+    background-color: #777;
+}
+
+header {
+    background-color: #ebebeb;
+    color: #777;
+    height: 100px;
+    padding: 35px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+nav {
+    background-color: #ebebeb;
+    color: #777;
+    height: 100px;
+    padding: 35px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-top: 15px;
+}
+
+#section {
+    background-color: white;
+    color: #777;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    float: left;
+    width: 550px;
+    height: 325px;
+    padding-top: 40px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#article {
+    padding: 20px;
+    color: #ebebeb;
+    background: #777;
+    position: absolute;
+    margin-top: 20px;
+    margin-bottom: 300px;
+    margin-left: 10px;
+    margin-right: 500px;
+    position: center;
+    width: 525px;
+    height: 225px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#h1h2h3 {
+    width: 475px;
+    height: 70px;
+    color: #777;
+    background: #ebebeb;
+    margin-left: 7x;
+    margin-top: 10px;
+    font-size: 15px;
+    padding-top: 15px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#p {
+    width: 475px;
+    height: 70px;
+    color: #777;
+    background: #ebebeb;
+    margin-left: 0px;
+    margin-top: 10px;
+    font-size: 15px;
+    padding-top: 2px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#aside {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    color: #777;
+    float: right;
+    width: 425px;
+    height: 325px;
+    padding-top: 40px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+footer {
+    clear: both;
+    width: 1000px;
+    background-color: #ebebeb;
+    height: 100px;
+    padding: 35px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
